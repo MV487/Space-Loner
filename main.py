@@ -82,5 +82,8 @@ def main():
         refresh_window()
         for enemy in enemies:
             enemy.move(enemy_vel)
+            if enemy.y + enemy.get_height() > GameConfig.HEIGHT:
+                enemies.remove(enemy)
+
 
 main()
