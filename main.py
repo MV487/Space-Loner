@@ -1,7 +1,7 @@
 import pygame
 import random
-import Classes
-import GameConfig
+import characters.Classes as Classes
+import settings.GameConfig as GameConfig
 from os import unlink
 
 pygame.init()
