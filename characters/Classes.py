@@ -1,5 +1,5 @@
 import pygame
-import GameConfig
+import settings.GameConfig as GameConfig
 
 
 class Ship:
