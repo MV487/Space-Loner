@@ -2,3 +2,6 @@
 env/
 *.pyc
 .vs/
+
+# render_pipline trivial files
+render_pipleline/samples/
