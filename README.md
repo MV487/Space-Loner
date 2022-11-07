@@ -3,9 +3,10 @@
 ***It is a 3D, multiplayer, strategy, survival game***
 
 
-## setup using pip
+## setup
 ### need python 3.9
 ```bash
+git clone --recursive https://github.com/MV487/Space-Loner.git
 pip install -r requirements.txt
 ```
 

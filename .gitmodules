@@ -1,0 +1,3 @@
+[submodule "RenderPipeline"]
+	path = RenderPipeline
+	url = https://github.com/tobspr/RenderPipeline
