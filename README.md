@@ -1,20 +1,21 @@
 #  Space Loner
 
-It is a game based off of the classic 'Space Invaders'
+***It is a 3D, multiplayer, strategy, survival game***
 
 
+**Setup guide**
 
-**install guide**
--
+```bash
+pip install -r requirements.txt
+```
 
-**Story & more info**
--
+# todo list
+---
+*7-11-2022*
+---
+- [ ] setup render pipline
+- [ ] plan project structure 
+- [ ] plan gameplay and story structure 
+---
 
-
-**Pictures**
--
-
-
-**updates**
--
 
