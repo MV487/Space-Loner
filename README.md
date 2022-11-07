@@ -8,6 +8,7 @@
 ```bash
 git clone --recursive https://github.com/MV487/Space-Loner.git
 pip install -r requirements.txt
+cd RenderPipline && python.exe setup.py
 ```
 
 
