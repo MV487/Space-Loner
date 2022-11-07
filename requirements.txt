@@ -1,1 +1,2 @@
 panda3d==1.10.12
+functools==0.5 // caching
