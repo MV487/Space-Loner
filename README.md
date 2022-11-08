@@ -4,9 +4,10 @@
 
 
 ## setup
-### need python 3.9
+### need python 3.7
 ```bash
 git clone --recursive https://github.com/MV487/Space-Loner.git
+python -m venv env
 pip install -r requirements.txt
 cd RenderPipline && python.exe setup.py
 ```
