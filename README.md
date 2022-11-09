@@ -19,8 +19,6 @@ cd RenderPipline && python.exe setup.py
 
 ---
 - [x] setup render pipline
-- [ ] plan project structure 
-- [ ] plan gameplay and story structure 
 ---
 
 ## Setup guide using SDK (not required)
